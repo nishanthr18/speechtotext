@@ -36,3 +36,9 @@
     transform: rotate(360deg);
   }
 }
+
+
+.micro{
+  padding-left: 2rem;
+  padding-right: 2rem;
+}
